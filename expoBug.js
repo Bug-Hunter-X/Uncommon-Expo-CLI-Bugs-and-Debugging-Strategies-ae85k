@@ -1,0 +1,1 @@
+This error occurs when using the Expo CLI and you encounter unexpected behavior or crashes without clear error messages.  Debugging can be challenging due to the nature of the CLI's interaction with native modules and underlying processes.  This often manifests as seemingly random crashes or unexpected behavior in the Expo Go app or the development environment.
